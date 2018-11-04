@@ -1,4 +1,3 @@
-
 def equal(memory, value):
   return value
  
